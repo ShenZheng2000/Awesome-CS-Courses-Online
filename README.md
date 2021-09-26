@@ -3,7 +3,7 @@ This is a curated list for free online computer science courses.
 
 # Stanford 
 
-## Foundation
+## 1. Foundation
 [CS 106A](https://web.stanford.edu/class/cs106a/) Programming Methodologies
 
 [CS 106B](https://web.stanford.edu/class/cs106b/) Programming Abstractions
@@ -14,7 +14,7 @@ This is a curated list for free online computer science courses.
 
 [CS 161](https://web.stanford.edu/class/cs161/) Design and Analysis of Algorithms
 
-## Intermediate
+## 2. Intermediate
 [CS 221](https://stanford-cs221.github.io/autumn2021/) Artificial Intelligence: Principles and Techniques
 
 [CS 228](https://ermongroup.github.io/cs228/) Probabilistic Graphical Models
@@ -35,7 +35,7 @@ This is a curated list for free online computer science courses.
 
 [CS 246](https://web.stanford.edu/class/cs246/) Mining Massive Data Sets
 
-## Advanced
+## 3. Advanced
 
 [CS 348I](http://cs348i.stanford.edu/) Computer Graphics in the Era of AI
 

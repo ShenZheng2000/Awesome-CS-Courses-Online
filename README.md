@@ -1,7 +1,7 @@
 # Awesome-CS-Courses-Online [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This is a curated list for free online computer science courses. 
 
-# Stanford
+# Stanford 
 
 ## Foundation
 [CS 106A](https://web.stanford.edu/class/cs106a/) Programming Methodologies

@@ -30,4 +30,9 @@ CS161
 
 [EE 364A](https://web.stanford.edu/class/ee364a/) Convex Optimization I
 
+# Related Repository
+[Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+[Free Programming Courses](https://github.com/fffaraz/awesome-courses)
+[CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses)
+
 # Contact

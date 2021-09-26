@@ -43,7 +43,9 @@ This is a curated list for free online computer science courses.
 
 # Related Repository
 [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+
 [Free Programming Courses](https://github.com/fffaraz/awesome-courses)
+
 [CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses)
 
 # Contact

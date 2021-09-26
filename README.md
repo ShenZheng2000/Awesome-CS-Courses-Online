@@ -4,15 +4,26 @@ This is a curated list for free online computer science courses.
 # Stanford
 
 ## Foundation
-CS161
+[CS 106A](https://web.stanford.edu/class/cs106a/) Programming Methodologies
+
+[CS 106B](https://web.stanford.edu/class/cs106b/) Programming Abstractions
+
+[CS 140](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php) Operating Systems
+
+[CS 166](http://web.stanford.edu/class/cs166/) Data Structures
+
+[CS 161](https://web.stanford.edu/class/cs161/) Design and Analysis of Algorithms
 
 ## Intermediate
+[CS 221](https://stanford-cs221.github.io/autumn2021/) Artificial Intelligence: Principles and Techniques
 
 [CS 228](https://ermongroup.github.io/cs228/) Probabilistic Graphical Models
 
 [CS 229](http://cs229.stanford.edu/) Machine Learning
 
 [CS 230](https://cs230.stanford.edu/) Deep Learning
+
+[CS 224w](http://web.stanford.edu/class/cs224w/) Machine Learning with Graphs
 
 [CS 224n](http://web.stanford.edu/class/cs224n/) Natural Language Processing with Deep Learning
 
@@ -36,3 +47,4 @@ CS161
 [CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses)
 
 # Contact
+zhengsh@kean.edu

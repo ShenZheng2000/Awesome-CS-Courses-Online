@@ -1,4 +1,4 @@
-# Awesome-CS-Courses-Online
+# Awesome-CS-Courses-Online [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This is a curated list for free online computer science courses. 
 
 # Stanford
